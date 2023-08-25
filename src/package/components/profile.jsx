@@ -35,8 +35,8 @@ if (!Intl.PluralRules) {
 
 const messages = {
     en,
-    fr,
-    tr
+    // fr,
+    // tr
 };
 const useStyles = makeStyles(styles);
 
@@ -183,7 +183,7 @@ const WithProvidersDeveloperProfile = ({
                         onFilesUpload={onFilesUpload}
                         classes={classes}
                     />
-                    <Footer />
+                    {/* <Footer /> */}
                 </IntlProvider>
             </ThemeProvider>
         </StyledEngineProvider>

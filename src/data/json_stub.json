@@ -1,18 +1,18 @@
 {
     "basics": {
-        "name": "John Doe",
+        "name": "Chris Arnone",
         "label": "Programmer",
         "picture": "",
-        "email": "john.doe@mail.com",
-        "phone": "(912) 555-4321",
+        "email": "ChrisArnone11@gmail.com",
+        "phone": "(316) 207-7742",
         "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "summary": "A summary of Chris Arnone...",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
+            "address": "1516 E Todd Drive.",
+            "postalCode": "AZ 85283",
+            "city": "Tempe",
             "countryCode": "US",
-            "region": "California"
+            "region": "Arizona"
         },
         "profiles": [
             {
@@ -29,7 +29,7 @@
             },
             {
                 "network": "github",
-                "username": "clementdevos"
+                "username": "Hi-jnx"
             },
             {
                 "network": "linkedin",
@@ -78,20 +78,20 @@
     ],
     "education": [
         {
-            "institution": "ISEN",
+            "institution": "Arizona State University",
             "area": "Software Development",
-            "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
+            "studyType": "Engineering Degree",
+            "startDate": "2021-08-17",
+            "endDate": "",
+            "gpa": "3.6",
             "courses": ["DB1101 - Basic SQL"]
         },
         {
-            "institution": "Université d'artois",
-            "area": "",
+            "institution": "Mesa Community College",
+            "area": "Applied Science in Computer Programming",
             "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
+            "startDate": "2019-08-20",
+            "endDate": "2021-05-02",
             "gpa": "4.0",
             "courses": ["DB1101 - Basic SQL"]
         }
@@ -115,39 +115,45 @@
     ],
     "skills": [
         {
-            "name": "React",
-            "level": "Master",
+            "name": "C#",
+            "level": "Veteran",
             "value": 100,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Angular",
-            "level": "Master",
+            "name": "SQL",
+            "level": "Veteran",
             "value": 80,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Javascript",
+            "level": "Veteran",
+            "value": 35,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
             "name": "NodeJS",
-            "level": "Master",
-            "value": 40,
+            "level": "Apprentice",
+            "value": 10,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Firebase",
-            "level": "Master",
-            "value": 60,
+            "name": "React",
+            "level": "Apprentice",
+            "value": 30,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
             "name": "Gmail",
-            "level": "Master",
-            "value": 20,
+            "level": "Veteran",
+            "value": 60,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "K8S",
-            "level": "Master",
-            "value": 80,
+            "name": "Java",
+            "level": "Apprentice",
+            "value": 20,
             "keywords": ["HTML", "CSS", "Javascript"]
         }
     ],
@@ -158,7 +164,7 @@
             "fluency": "Native speaker"
         },
         {
-            "language": "Italien",
+            "language": "Spanish",
             "value": 15,
             "fluency": "Native speaker"
         }
@@ -169,7 +175,9 @@
             "reference": "Reference..."
         }
     ],
-    "projects": [],
+    "projects": [
+    
+    ],
     "specific": {
         "basics": {
             "visaSponsorship": true,
@@ -178,18 +186,18 @@
         "dreamJob": {
             "locations": [
                 {
-                    "name": "Valenciennes, France"
+                    "name": "Phoenix, Arizona"
                 },
                 {
-                    "name": "Lille, France"
+                    "name": "Tempe, Arizona"
                 },
                 {
-                    "name": "Paris,France"
+                    "name": "Kansas City, Missouri"
                 }
             ],
             "remoteFrequency": {
                 "frequency": "hybrid",
-                "daysPerWeek": 2
+                "daysPerWeek": 3
             }
         },
         "currentJob": {
@@ -203,7 +211,7 @@
         },
         "work": {
             "contractTypes": ["permanent", "freelance", "internship"],
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
+            "codingReason": "I started coding on Visual Studio in my basement and haven't stopped since",
             "searchState": "activelySearching",
             "experienceYears": 0,
             "codeExperienceYears": 2,
@@ -212,11 +220,11 @@
         "sound": {
             "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
         },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "interestedBy": "React, blockchain and Football"
     },
     "resumeCustomization": {
         "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "url": "https://cdn.pixabay.com/photo/2016/09/01/19/53/pocket-watch-1637396_1280.jpg",
             "alt": "Default Banner"
         },
         "cardsOrder": [
@@ -246,7 +254,7 @@
             },
             {
                 "type": "gifs",
-                "variant": 0
+                "variant": 4
             },
             {
                 "type": "interestedBy",
