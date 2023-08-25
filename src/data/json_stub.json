@@ -39,13 +39,13 @@
     },
     "work": [
         {
-            "name": "Samsung Engineering",
-            "position": "3D Cad Engineer",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
+            "name": "Phoenix Formulations",
+            "position": "Jr Applications Developer",
+            "website": "https://www.inw-group.com/network/phoenix-formulations",
+            "startDate": "2021-11-01",
             "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "location": "Tempe, Arizona",
+            "highlights": ["2+ years with the company"]
         },
         {
             "name": "What a nice office",
@@ -78,21 +78,21 @@
     ],
     "education": [
         {
-            "institution": "Arizona State University",
-            "area": "Software Development",
-            "studyType": "Engineering Degree",
-            "startDate": "2021-08-17",
-            "endDate": "",
-            "gpa": "3.6",
-            "courses": ["DB1101 - Basic SQL"]
-        },
-        {
             "institution": "Mesa Community College",
             "area": "Applied Science in Computer Programming",
             "studyType": "",
             "startDate": "2019-08-20",
             "endDate": "2021-05-02",
             "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        },
+        {
+            "institution": "Arizona State University",
+            "area": "Software Development",
+            "studyType": "Engineering Degree",
+            "startDate": "2021-08-17",
+            "endDate": "",
+            "gpa": "3.6",
             "courses": ["DB1101 - Basic SQL"]
         }
     ],
@@ -176,7 +176,18 @@
         }
     ],
     "projects": [
-    
+    {
+        "name": "PFL Scheduler",
+        "description": "testing description here for this project that i worked on will copy paste the information here when confirmed it is working properly",
+        "startDate": "2021-11-01",
+        "roles": "Lead Developer"
+    },
+    {
+        "name": "Weigh Issue",
+        "description": "testing description here for this project that i worked on will copy paste the information here when confirmed it is working properly",
+        "startDate": "2013-01-01",
+        "roles": "Developer"
+    }
     ],
     "specific": {
         "basics": {
