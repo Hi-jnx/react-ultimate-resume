@@ -17,7 +17,7 @@
         "profiles": [
             {
                 "network": "twitter",
-                "username": "@john"
+                "username": "@Chris"
             },
             {
                 "network": "Portfolio",
@@ -282,6 +282,10 @@
             {
                 "type": "social",
                 "variant": 4
+            },
+            {
+                "type": "References",
+                "variant": 2
             }
         ],
         "fields": {

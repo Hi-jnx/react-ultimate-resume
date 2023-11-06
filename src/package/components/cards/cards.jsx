@@ -14,6 +14,7 @@ import { SkillsCard } from './cards_types/skills/skills_card';
 import { GifsCard } from './cards_types/gifs/gifs_card';
 import { DreamJobCard } from './cards_types/dream_job/dream_job_card';
 import { LanguagesCard } from './cards_types/languages/languages_card';
+import { ReferencesCard } from './cards_types/References/References_card';
 
 import { getRandomCardVariant } from '../../utils/styles/theme/theme';
 import { DEFAULT_CARD_ORDER } from './utils/cards_order';
